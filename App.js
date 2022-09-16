@@ -7,7 +7,7 @@ export default function App() {
        <Task />
        <View style={[styles.box, {backgroundColor: '#4dc2c2'}]}>
         <Text>
-          Square 2
+          Square 02
         </Text>
         </View>
           <View style={[styles.box, {backgroundColor: '#ff637c'}]}>
