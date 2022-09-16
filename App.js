@@ -12,7 +12,7 @@ export default function App() {
         </View>
           <View style={[styles.box, {backgroundColor: '#ff637c'}]}>
           <Text>
-            Square 3
+            Square 03
           </Text>
           </View>        
        
